@@ -15,7 +15,7 @@ Cursos de Java
 
     # 2. Configuração do Ambiente
         - 2.1 - Instalação do Java 13 (Realizei a instalação do JAVA 19 -- versão mais atual do momento que foi iniciado o curso)
-        - 2.2 - Windows: Instalação JDK e Eclipse (Utilizo o VSCode)
+        - 2.2 - Windows: Instalação JDK e Eclipse (feita a instalação do eclipse 2022-12)
         - 2.3 - Linux: Instalação JDK e Eclipse
         - 2.4 - MacOS: Instalação JDK e Eclipse
     
