@@ -22,4 +22,9 @@ Cursos de Java
     # 3. Fundamentos
         - 3.1 - Introdução ao Módulo
         - 3.2 - Criar Projeto
-        - 3.3 - Primeiro Programa #01
+        - 3.3 - Primeiro Programa
+        - 3.4 - Organização
+        - 3.5 - Desafio - Organização
+        - 3.6 - Comentários
+        - 3.7 - Variáveis e Constantes
+        - 3.8 - Desafio - Variáveis e Constantes
