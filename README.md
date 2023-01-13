@@ -28,3 +28,5 @@ Cursos de Java
         - 3.6 - Comentários
         - 3.7 - Variáveis e Constantes
         - 3.8 - Desafio - Variáveis e Constantes
+        - 3.9 - Inferência de Tipos
+        - 3.10 - Tipos Primitivos

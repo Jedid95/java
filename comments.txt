@@ -1,2 +1,4 @@
 main - ctrl+espaço para public static void main(String[] args)
 syso - ctrl+espaço para System.out.println();
+Alt + cima /baixo - movimenta uma linha de código para cima ou para baixo (no eclipse)
+ctrl + shift + F11 - Para "correr" o código no eclipse

@@ -17,5 +17,10 @@ public class Temperatura {
 		double C = (F-ajuste)*fator;
 		
 		System.out.println("Temperatura: " + F + "F Equivale a: " + C + "ºC");
+		
+		F = 50;
+		C = (F-ajuste)*fator;
+		
+		System.out.println("Temperatura: " + F + "F Equivale a: " + C + "ºC");
 	}
 }
